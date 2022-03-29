@@ -6,14 +6,6 @@
 
 
 
-
-https://user-images.githubusercontent.com/64154442/160652937-81d95c89-4ab8-477f-a080-e6ff267fae82.mp4
-
-
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
