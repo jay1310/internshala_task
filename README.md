@@ -4,6 +4,12 @@
 2. Run the command npm install to install the required node modules.
 3. Start the project using `npm start`.
 
+
+
+https://user-images.githubusercontent.com/64154442/160652145-5d9cb7a1-fd78-4ff4-9c20-8923d61ccb80.mp4
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
